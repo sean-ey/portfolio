@@ -107,17 +107,6 @@ const About = () => {
                       <FaLinkedinIn />
                     </a>
                   </li>
-                  <li className="social-icons">
-                    <a
-                      href="https://www.instagram.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour home-social-icons"
-                      aria-label="instagram"
-                    >
-                      <AiFillInstagram />
-                    </a>
-                  </li>
                 </ul>
               </Col>
             </Row>
